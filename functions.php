@@ -1,4 +1,6 @@
 <?php 
+// This plugins also need "WP Crontrol"
+
 
 function twohr_custom_cron_schedule($schedules)
 {
